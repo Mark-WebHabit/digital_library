@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "numberOfPages": 336,
+      "description": "To Kill a Mockingbird takes readers to the roots of human behavior, to innocence and experience, kindness and cruelty, love and hatred, humor and pathos.",
+      "publicationDate": "July 11, 1960",
+      "dateUploaded": "2024-05-20",
+      "status": "available"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "numberOfPages": 328,
+      "description": "1984 is a dystopian novel by George Orwell published in 1949. The story takes place in an imagined future, the year 1984, when much of the world has fallen victim to perpetual war, omnipresent government surveillance, historical negationism, and propaganda.",
+      "publicationDate": "June 8, 1949",
+      "dateUploaded": "2024-05-20",
+      "status": "borrowed"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "numberOfPages": 279,
+      "description": "Pride and Prejudice follows the main character, Elizabeth Bennet, as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of early 19th-century England.",
+      "publicationDate": "January 28, 1813",
+      "dateUploaded": "2024-05-20",
+      "status": "available"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "numberOfPages": 336,
+      "description": "To Kill a Mockingbird takes readers to the roots of human behavior, to innocence and experience, kindness and cruelty, love and hatred, humor and pathos.",
+      "publicationDate": "July 11, 1960",
+      "dateUploaded": "2024-05-20",
+      "status": "borrowed"
+    }
+  ]
+}

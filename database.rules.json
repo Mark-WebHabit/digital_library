@@ -1,0 +1,22 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": true,
+    "users": {
+      ".indexOn": ["role", "studentNumber"],
+      "$uid": {
+        ".read": "auth != null",
+        ".write": "auth != null"
+      }
+    },
+    "books": {
+      ".indexOn": ["status"]
+    },
+    "borrows": {
+      ".indexOn": ["status", "studentNumber"]
+    },
+    "penalties": {
+      ".indexOn": ["studentNumber"]
+    }
+  }
+}
